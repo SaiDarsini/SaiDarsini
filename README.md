@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidarsini" alt="saidarsini" /></a> </p>
 
-- 🔭 I’m currently working on [Puralang Engine & Portfolio Website](https://github.com/SaiDarsini/puralang_engine)
+- 🔭 I’m currently working on [Puralang Engine](https://github.com/SaiDarsini/puralang_engine)
 
 - 🌱 I’m currently learning **Deep Learning, Advanced Data Analytics, and Cloud-Native AI Deployment, Frameworks, Full stack**
 
