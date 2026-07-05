@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm SAI DARSINI S</h1>
-<h3 align="center">A passionate frontend developer , Data Scientist & AI Enthusiast from India</h3>
+<h3 align="center">Full Stack Developer | Data Science Student | Founder & Lead Engineer of PuraLang Engine. B.Tech CSE (Data Science) student building intelligent tools that bridge engineering, AI, and data analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidarsini&label=Profile%20views&color=0e75b6&style=flat" alt="saidarsini" /> </p>
 
-- 🔭 I’m currently working on **Puralang Engine & Portfolio Website**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidarsini" alt="saidarsini" /></a> </p>
+
+- 🔭 I’m currently working on [Puralang Engine & Portfolio Website](https://github.com/SaiDarsini/puralang_engine)
 
 - 🌱 I’m currently learning **Deep Learning, Advanced Data Analytics, and Cloud-Native AI Deployment, Frameworks, Full stack**
 
@@ -12,7 +13,15 @@
 
 - 🤝 I’m looking for help with **Advanced LLM integration and AWS Cloud Services**
 
+- 👨‍💻 All of my projects are available at [https://darsini-portfolio-v2.vercel.app/](https://darsini-portfolio-v2.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@saidarsini05](https://medium.com/@saidarsini05)
+
 - 📫 How to reach me **saidarsini05@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidarsini&show_icons=true&locale=en" alt="saidarsini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidarsini&" alt="saidarsini" /></p>
-
